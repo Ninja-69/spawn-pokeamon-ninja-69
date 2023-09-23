@@ -10,19 +10,19 @@
 ![welcome to our](https://github.com/Ninja-bruh69/All-In-One-Discord-Bot/assets/130167556/c90149b9-48e6-4103-8457-c9fe6b56374b)
 
 
-### Fork Latest version on replit [Run this Project In Replit.in](### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/Poketwo-Catcher-By-Ninja69?v=1)
+### Fork Latest version on replit [Run this Project In Replit.in](### Fork Latest version on replit [Run this Project In Replit.in](https://replit.com/@DNPAdil/POKETWO-SPAMMER-247-SPAWNING?v=1)
 )
 
 
 
-credits: Ninja
+**credits: Ninja-69**
 
 
-help?
+**help?**
 
-dm me on discord
+**dm me on discord**
 
-username - ninja.69#0000
+**username - ninja.69#0000**
 
 
 [SUPPORTSRV](https://dsc.gg/itzmeninja)
@@ -51,17 +51,17 @@ spam channel id ~~-->~~ config.json
 
 
 **Commands:**\
-`-help` - To Get All List Of of Commands
+`{prefix}help` - To Get All List Of of Commands
 
 **warnings**
-(REMEMBER THIS IS SELF BOT SO YOU HAVE TO GIVE YOUR ID TOKEN , NOT BOT TOKEN , ALSO USE AN ALT! TRANSFER COINS , Also If You Got Problem like Port Already Use or Any Ports Problem , go to `Webserver.py` Line 8 Change Port To Any Random 4 digit numbers
+(REMEMBER THIS IS SELF BOT SO YOU HAVE TO GIVE YOUR ID TOKEN , NOT BOT TOKEN , ALSO USE AN ALT! TRANSFER COINS , Also If You Got Problem like Port Already Use or Any Ports Problem , go to `keep_alive.js` Line 8 Change Port To Any Random 4 digit numbers
 ff
 #### <b>Running</b>
 Once you have installed the correct dependencies, click the green 'Run' icon at the top of your webpage. If a new window opens up with 'Bot logged on' written inside, and `Logged into account: <account name>` has appeared into your console, then the bot has successfully started.
 
 > feel free to dm me on discord
 > username - ninja.69#0000
-> We recommend using Uptime Robot for 24/7 autofarm.
+> We recommend using Uptime Robot for 24/7 Spams
 >
 
 
