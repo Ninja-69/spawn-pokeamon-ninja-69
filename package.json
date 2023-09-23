@@ -1,0 +1,17 @@
+{
+  "name": "Harith-Poketwo-Auto-Catcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.18.1",
+    "node-cron": "^3.0.0"
+  }
+}

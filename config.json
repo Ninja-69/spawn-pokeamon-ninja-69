@@ -1,0 +1,16 @@
+{
+    "token": ""
+// put token in secret tab
+  
+    "prefix": "!", 
+    "spawnChannelID": ["1065581747439423559", "1059165162768179261"],  
+//put spawn channel id
+    "pokeTwoBotPrefix": ".", 
+//put poketwo prefix 
+  
+    "ownerID": "1095218050376147055", 
+//your id
+    "spamChannelID": "1095218706365288509", 
+//spam id
+    "autoSpam": true 
+}
